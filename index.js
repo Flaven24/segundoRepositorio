@@ -4,7 +4,7 @@
         <h2>Titulo</h2>
         <p>PARRAFO 1</p>
         <p>PARRAFO 2</p>
-c{/* comentarios a guardar */}
+
         <br/>
         <table>
             
