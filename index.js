@@ -5,11 +5,9 @@
         <p>PARRAFO 1</p>
         <p>PARRAFO 2</p>
 
-        <br>
+        <br/>
         <table>
-            <tr><th>titulo
-            <tr><td>nombre
-            <tr><td>apellidos
+            
         </table>
     </body>
 </html>
