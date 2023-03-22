@@ -11,5 +11,8 @@
         </table>
 
         <h3>nuevos cambios</h3>
+
+        <p>PARRAFO 3</p>
+        <p>PARRAFO 4</p>
     </body>
 </html>
