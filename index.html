@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pregunta 03</title>
+</head>
+<!-- 3.   Ingrese por teclado le lado de un cuadrado luego muestre el área  formado entre el circulo 
+y el cuadrado como se muestra en la figura.  -->
+<body>
+    <input type="submit" onclick="calcular()" value="Calcular area">
+    <br>
+    <h2 id="area"></h2>
+    <script>
+        function calcular(){
+            lado=Number(prompt("Ingrese el lado del cuadrado: "));
+            areaCirculo=3.14*(1*1);
+            areaCuadrado=Math.floor((lado*lado)-areaCirculo);
+            document.getElementById("area").innerHTML="El area formada entre el cuadrado y el circulo es: "+areaCuadrado;
+        }
+    </script>
+</body>
+</html>
