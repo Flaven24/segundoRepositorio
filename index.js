@@ -12,8 +12,6 @@ c{/* comentarios a guardar */}
 
         <h3>nuevos cambios</h3>
 
-        <h4>nuevos cambios git stash</h4>
-
         <p>PARRAFO 3</p>
         <p>PARRAFO 4</p>
 <p>PARRAFO 5</p>
